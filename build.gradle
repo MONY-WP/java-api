@@ -33,7 +33,7 @@ jib {
         image = 'eclipse-temurin:21-jdk-alpine'
     }
     to {
-        image = 'product-web-api:latest' // local image name
+        image = 'java-api' // local image name
         // Or use registry, e.g. 'registry.gitlab.com/username/project:tag'
     }
     container {
