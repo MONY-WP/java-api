@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: product-web-api
+    name: java-api
     plan: free
     docker:
       dockerfilePath: Dockerfile

@@ -1,6 +1,6 @@
 spring:
   application:
-    name: product-web-api
+    name: java-api
   datasource:
     url: jdbc:postgresql://dpg-d3tealmuk2gs73d2ihpg-a/dbsu6_a9jl
     username: mony

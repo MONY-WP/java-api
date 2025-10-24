@@ -2,9 +2,9 @@ spring:
   application:
     name: product-web-api
   datasource:
-    url: jdbc:postgresql://dpg-d3phf5ripnbc739tun9g-a.singapore-postgres.render.com:5432/kafedb
-    username: heng
-    password: mMrveLPH0qfK3KOXvnLKn7mCOzJkmDws
+    url: jdbc:postgresql://dpg-d3tealmuk2gs73d2ihpg-a/dbsu6_a9jl
+    username: mony
+    password: WU6VS7GXbvke4bHmjHKLAy4nuL8lIeYf
     driver-class-name: org.postgresql.Driver
     hikari:
       maximum-pool-size: 5
